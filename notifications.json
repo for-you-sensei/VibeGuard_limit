@@ -10,7 +10,7 @@
   {
     "id": "maintenance-1",
     "title": "Thanks for participating in Vibe Guard Pre-release version",
-    "message": "Please subscribe to our telegram channel",
+    "message": "Subscribe to our telegram channel to stay up to date",
     "severity": "warning",
     "type": "banner",
     "url": "https://t.me/VibeProjectsLab",
