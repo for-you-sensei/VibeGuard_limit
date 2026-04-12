@@ -10,13 +10,13 @@
   },
   {
     "id": "maintenance-1",
-    "title": "Thanks for participating in Vibe Guard Pre-release version",
+    "title": "Подпишитесь на наш ТГ канал чтобы поддержать https://t.me/VibeProjectsLab",
     "message": "Subscribe to our telegram channel to stay up to date",
     "severity": "warning",
     "type": "banner",
     "url": "https://t.me/VibeProjectsLab",
     "created_at": "2026-03-30T00:00:00Z",
-    "expires_at": "2026-04-30T00:00:00Z"
+    "expires_at": "2026-12-30T00:00:00Z"
   },
     {
     "id": "test-1",
@@ -26,6 +26,6 @@
     "type": "bell",
     "url": "https://t.me/VibeProjectsLab",
     "created_at": "2026-03-30T00:00:00Z",
-    "expires_at": "2026-04-30T00:00:00Z"
+    "expires_at": "2026-12-30T00:00:00Z"
   }
 ]
