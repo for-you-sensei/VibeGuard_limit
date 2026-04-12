@@ -10,8 +10,8 @@
   },
   {
     "id": "maintenance-1",
-    "title": "Подпишитесь на наш ТГ канал чтобы поддержать https://t.me/VibeProjectsLab",
-    "message": "Subscribe to our telegram channel to stay up to date",
+    "title": "Подпишитесь на наш ТГ",
+    "message": "Подпишитесь на наш ТГ канал чтобы поддержать https://t.me/VibeProjectsLab",
     "severity": "warning",
     "type": "banner",
     "url": "https://t.me/VibeProjectsLab",
